@@ -1,0 +1,15 @@
+{
+  "name": "agnostic-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark, muted syntax theme without too much shine.",
+  "keywords": [
+    "dark",
+    "syntax"
+  ],
+  "repository": "https://github.com/admhlt/agnostic-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
