@@ -37,8 +37,8 @@
 @syntax-color-function:   @hue-6;
 @syntax-color-method:     @hue-6;
 @syntax-color-parameter:  @hue-7;
-@syntax-color-tag:        @hue-2;
-@syntax-color-attribute:  @hue-2;
+@syntax-color-tag:        @syntax-color-text;
+@syntax-color-attribute:  @hue-6;
 @syntax-color-operator:   @syntax-color-text;
 @syntax-color-selector:   @hue-3;
 
@@ -65,8 +65,7 @@
 // Custom Syntax Variables -----------------------------------
 // Don't use in packages
 
-@syntax-cursor-line: hsla(@syntax-hue, 100%, 80%, 0.04); // needs to be semi-transparent to show search results
-
+@syntax-cursor-line:   fade(@syntax-accent, 5%); // Must be transparent
 @syntax-deprecated-fg: darken(@syntax-color-modified, 50%);
 @syntax-deprecated-bg: @syntax-color-modified;
 @syntax-illegal-fg:    white;
