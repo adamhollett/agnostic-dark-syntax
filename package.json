@@ -1,7 +1,7 @@
 {
   "name": "agnostic-dark-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A dark, muted syntax theme without too much shine.",
   "keywords": [
     "dark",
