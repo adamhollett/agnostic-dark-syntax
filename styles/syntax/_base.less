@@ -52,7 +52,7 @@
   // &.syntax--modifier {
   //   &.syntax--package,
   //   &.syntax--import {
-  //     color: @mono-1;
+  //     color: @syntax-color-text;
   //   }
   // }
 }
@@ -89,7 +89,7 @@
   // }
   //
   // &.syntax--parameter {
-  //   color: @mono-1;
+  //   color: @syntax-color-text;
   // }
 }
 
@@ -148,7 +148,7 @@
   //   &.syntax--method,
   //   &.syntax--class,
   //   &.syntax--inner-class {
-  //     color: @mono-1;
+  //     color: @syntax-color-text;
   //   }
   // }
 }
@@ -202,9 +202,9 @@
   &.syntax--class {
     color: @syntax-color-class;
 
-    // &.syntax--body {
-    //   color: @mono-1;
-    // }
+    &.syntax--body {
+      color: @syntax-color-text;
+    }
   }
 
   &.syntax--method-call,
