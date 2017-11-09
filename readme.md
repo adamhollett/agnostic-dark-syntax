@@ -1,6 +1,6 @@
-## Agnostic Dark syntax theme
+## [Agnostic Dark Syntax](https://atom.io/themes/agnostic-dark-syntax)
 
-Agnostic Dark is a muted syntax theme for Atom inspired by [eclectic-syntax](https://github.com/blaqbern/eclectic-syntax). It supports many languages and features meaningful colours without too much shine.
+Agnostic Dark is a muted syntax theme for Atom inspired by [eclectic-syntax](https://atom.io/themes/eclectic-syntax). It supports many languages and features meaningful colours without too much shine.
 
 ### Install
 
@@ -16,6 +16,8 @@ Agnostic Dark is a muted syntax theme for Atom inspired by [eclectic-syntax](htt
 In a terminal session, run `apm install agnostic-dark-syntax`.
 
 ### Examples
+
+The UI theme in the examples is [nucleus-dark-ui](https://atom.io/themes/nucleus-dark-ui) and the typeface is [Hack](http://sourcefoundry.org/hack).
 
 #### Python
 ![](previews/python.png)
@@ -34,4 +36,4 @@ In a terminal session, run `apm install agnostic-dark-syntax`.
 
 ---
 
-Made with ♥ by [Adam Hollett](https://adamhollett.com/)
+Made with ♥ by [Adam Hollett](https://adamhollett.com)
