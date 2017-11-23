@@ -2,6 +2,8 @@
 
 Agnostic Dark is a muted syntax theme for Atom inspired by [eclectic-syntax](https://atom.io/themes/eclectic-syntax). It supports many languages and features meaningful colours without too much shine.
 
+There is a [light version](https://atom.io/themes/agnostic-light-syntax) as well.
+
 ### Install
 
 #### In Atom
