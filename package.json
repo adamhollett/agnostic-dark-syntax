@@ -8,7 +8,7 @@
     "muted",
     "syntax"
   ],
-  "repository": "https://github.com/admhlt/agnostic-dark-syntax",
+  "repository": "https://github.com/adamhollett/agnostic-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
